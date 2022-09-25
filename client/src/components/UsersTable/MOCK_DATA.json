@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fairleigh Winspar",
+    "email": "fwinspar0@ycombinator.com",
+    "team": "Jones and Sons",
+    "active": true,
+    "admin": true,
+    "status": "JOINED"
+  },
+  {
+    "name": "Edee Sharpley",
+    "email": "esharpley1@cbslocal.com",
+    "team": "",
+    "active": false,
+    "admin": false,
+    "status": "PENDING"
+  },
+  {
+    "name": "Cathy Hinners",
+    "email": "chinners2@bbb.org",
+    "team": "",
+    "active": false,
+    "admin": false,
+    "status": "PENDING"
+  },
+  {
+    "name": "Pernell Bath",
+    "email": "pbath3@cyberchimps.com",
+    "team": "Rempel Inc",
+    "active": true,
+    "admin": true,
+    "status": "JOINED"
+  }
+]
